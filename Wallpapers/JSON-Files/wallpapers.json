@@ -3,17 +3,17 @@
 	[
 		{
 			"author": "Jafux",
-			"url": "https://github.com/chegarr/JIP/Wallpapers/wallpaper_poligone.jpg",
-			"name": "ploigone"
+			"url": "https://raw.githubusercontent.com/chegarr/JIP/master/Wallpapers/wallpaper_poligone.jpg",
+			"name": "poligone"
 		},
 		{
 			"author": "Jafux",
-			"url": "https://github.com/chegarr/JIP/Wallpapers/wallpaper_mountain.jpg",
+			"url": "https://raw.githubusercontent.com/chegarr/JIP/master/Wallpapers/wallpaper_mountain.jpg",
 			"name": "mountain"
 		},
 		{
 			"author": "Jafux",
-			"url": "https://github.com/chegarr/JIP/Wallpapers/wallpaper_grungecotton.jpg",
+			"url": "https://raw.githubusercontent.com/chegarr/JIP/master/Wallpapers/wallpaper_grungecotton.jpg",
 			"name": "grunge"
 		}
 	]
